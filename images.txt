@@ -4,3 +4,4 @@ redis
 mongo
 mcr.microsoft.com/mssql/server:2022-latest
 mpromonet/webrtc-streamer:v0.8.6
+snowdreamtech/frps
